@@ -1,0 +1,14 @@
+size(800,800);
+int stijn=150;
+noFill();
+strokeWeight(6);
+stroke(0,0,255);
+ellipse(200,200,stijn,stijn);
+stroke(0,0,0);
+ellipse(360,200,stijn,stijn);
+stroke(255,0,0);
+ellipse(520,200,stijn,stijn);
+stroke(255,200,0);
+ellipse(275,290,stijn,stijn);
+stroke(0,255,0);
+ellipse(435,290,stijn,stijn);
